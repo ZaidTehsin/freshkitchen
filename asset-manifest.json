@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/freshkitchen/static/css/main.e79e1467.css",
+    "main.js": "/freshkitchen/static/js/main.768b35d4.js",
+    "static/js/787.ea2e3ac2.chunk.js": "/freshkitchen/static/js/787.ea2e3ac2.chunk.js",
+    "static/media/food1.jpg": "/freshkitchen/static/media/food1.a03273625c85528cffb5.jpg",
+    "static/media/rest1.jpg": "/freshkitchen/static/media/rest1.b27a0d00fec731e70b1e.jpg",
+    "static/media/biryani1.jpg": "/freshkitchen/static/media/biryani1.80755a66377a46b18f4d.jpg",
+    "static/media/dessert1.jpg": "/freshkitchen/static/media/dessert1.5e95103b3f3f34f89501.jpg",
+    "static/media/burgerpic1.jpg": "/freshkitchen/static/media/burgerpic1.401666d8ef80e2f81b16.jpg",
+    "static/media/logo.png": "/freshkitchen/static/media/logo.d34f7eb25809fa684784.png",
+    "index.html": "/freshkitchen/index.html",
+    "main.e79e1467.css.map": "/freshkitchen/static/css/main.e79e1467.css.map",
+    "main.768b35d4.js.map": "/freshkitchen/static/js/main.768b35d4.js.map",
+    "787.ea2e3ac2.chunk.js.map": "/freshkitchen/static/js/787.ea2e3ac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79e1467.css",
+    "static/js/main.768b35d4.js"
+  ]
+}
